@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>★Something★</title>
+  </head>
+  <body>
+    <body style="background-color:pink;text-align:center">
+    <h1>★Something★</h1>
+    <p> I'm not sure what to really talk about here. I'm not that creative. Yeah...it sucks. Maybe I can show off a drawing I've made. </p>
+
+    <h2>★My Drawing★</h2>
+    <img src="Kimiko.jpg" alt="Kimiko"
+    width="200"
+    height="300"/>
+    <p> This is just one of many drawings that I've made. I doodle a lot of animal themed drawings, which is known as "furries." Being a furry means that you are interested in anthropormorphic animals and do activities involving them. Anyways...</p>
+
+    <h3>★Anime★</h3>
+    <p>Anime is something very interesting. It is a big reason why I'm so interested in Japanese culture; they're very creative.
+    <img src="froppy.gif" alt="A cute froggy girl"
+      width="200"
+      height="300"/>
+    <p> This is a character from the popular anime called Boku no Hero Academia (My Hero Academia in English). The show is very action based, similar to Dragon Ball Z, another really popular anime.</p>
+    <img src="Android 18.jpg" alt="A android woman from Dragon Ball Super"
+    width="200"
+    height="300"/>
+    <p> This is a character from Dragon Ball Super; her name is Android 18 and she has been around since Dragon Ball Z.</p>
+    <h4>★The End★</h4>
+    <p>So, that's all I could think about to say. I hope you enjoyed reading and...here's <a href="magicalmiku.gif">a magical Hatsune Miku!</a>
+  </body>
+</html>
